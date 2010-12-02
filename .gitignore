@@ -1,5 +1,9 @@
 build
 build/revision
-*.xcodeproj/
-!*.xcodeproj/project.pbxproj
+*.xcodeproj/*.pbxuser
+*.xcodeproj/*.perspectivev3
+*.xcodeproj/*.mode1v3
+*.xcodeproj/*.tm_build_errors
+*.tmproj
 Nightly.app.zip
+.DS_Store
