@@ -1,6 +1,10 @@
 GitX
 ---------------
 
+# Download binary package (DMG)
+
+https://github.com/downloads/acook/gitx/GitX%20v1.7.5.dmg
+
 # What is GitX?
 
 GitX is a gitk like clone written specifically for OS X Leopard and higher.
